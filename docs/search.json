@@ -4,7 +4,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "This is a test page for all my git projects"
+    "text": "I’m a developing data scientist who’s currently studying in the University of British Columbia. This website was developed using Quarto and will serve as a makeshift WIP portfolio moving forward. Feel free to browse, and I hope you enjoy your visit!"
+  },
+  {
+    "objectID": "about.html#welcome",
+    "href": "about.html#welcome",
+    "title": "About",
+    "section": "",
+    "text": "I’m a developing data scientist who’s currently studying in the University of British Columbia. This website was developed using Quarto and will serve as a makeshift WIP portfolio moving forward. Feel free to browse, and I hope you enjoy your visit!"
   },
   {
     "objectID": "index.html",
